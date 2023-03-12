@@ -1,6 +1,6 @@
 # FLASHCARDS
 ## Getting started
-- install [node.js](https://nodejs.org/en/)
+- install [node.js](https://nodejs.org/)
 - clone this repo to your local mashine
 - enter the repo directory in your terminal
 - run:
